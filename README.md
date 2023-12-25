@@ -2,7 +2,7 @@
 ## About Me
 - 🎓 Currently studying Statistics at the University of Toronto
 - 📊 Worked as a model validator at Deloitte, focusing on credit risk
-- 🔭 Hold a Masters in International Business Economics and Finance from Gokhale Institute of Politics and Economics, India, with a focus on Econometrics and Analytics
+- 🔭 I also hold a Masters in International Business Economics and Finance from Gokhale Institute of Politics and Economics, India, with a focus on Econometrics and Analytics
 - 🌱 Enthusiastic about data science and machine learning applications in healthcare, social sciences, finance, and risk management
 - 📕 Avid reader of fiction
 
