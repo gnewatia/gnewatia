@@ -6,7 +6,9 @@
 - 🌱 Enthusiastic about data science and machine learning applications in healthcare, social sciences, finance, and risk management
 - 📕 Avid reader of fiction
 
-<!---
-gnewatia/gnewatia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technical Skills
+- 👩‍💻Python,R,SQL
+- ⚙️Markdown, LaTex
+
+## Connect with Me
+- [LinkedIn](www.linkedin.com/in/gaurja-newatia-880a39150)
