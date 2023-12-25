@@ -11,4 +11,4 @@
 - ⚙️Markdown, LaTex
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/gaurja-newatia-880a39150)
+- [LinkedIn Profile](https://www.linkedin.com/in/gnewatia)
